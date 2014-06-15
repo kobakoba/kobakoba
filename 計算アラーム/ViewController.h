@@ -8,6 +8,49 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+     IBOutlet UILabel *myLabel;
+    NSDate *date2;
+    IBOutlet UILabel *label;
+    NSDate *date1;
+    NSTimer *myTimer;
+}
+
+
+-(void)kuraberu;
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @end

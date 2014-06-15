@@ -7,22 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5006E3AC1866C6350062FF62 /* keisanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5006E3AB1866C6350062FF62 /* keisanViewController.m */; };
+		503344A118A24B0F00300A4C /* おおおおおおおおおお in Resources */ = {isa = PBXBuildFile; fileRef = 503344A018A24B0F00300A4C /* おおおおおおおおおお */; };
+		503A45AE18C72CAE002D8189 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 503A45AC18C72A05002D8189 /* AudioToolbox.framework */; };
+		5047D9E01833927900FE21C7 /* アラーム.png in Resources */ = {isa = PBXBuildFile; fileRef = 5047D9DF1833927900FE21C7 /* アラーム.png */; };
+		504B194A186C72CA0053C047 /* UUUUUUU.png in Resources */ = {isa = PBXBuildFile; fileRef = 504B1949186C72CA0053C047 /* UUUUUUU.png */; };
+		504B194C186C758D0053C047 /* ￥￥￥￥￥.png in Resources */ = {isa = PBXBuildFile; fileRef = 504B194B186C758D0053C047 /* ￥￥￥￥￥.png */; };
+		5053E1CF193ACC7B00F0EE4A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5053E1D1193ACC7B00F0EE4A /* MainStoryboard.storyboard */; };
 		505AB2CC17C901CD001B919B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CB17C901CD001B919B /* UIKit.framework */; };
 		505AB2CE17C901CD001B919B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CD17C901CD001B919B /* Foundation.framework */; };
-		505AB2D017C901CD001B919B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CF17C901CD001B919B /* CoreGraphics.framework */; };
+		505AB2D017C901CD001B919B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CF17C901CD001B919B /* CoreGraphics.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		505AB2D617C901CD001B919B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2D417C901CD001B919B /* InfoPlist.strings */; };
 		505AB2D817C901CD001B919B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 505AB2D717C901CD001B919B /* main.m */; };
 		505AB2DC17C901CD001B919B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 505AB2DB17C901CD001B919B /* AppDelegate.m */; };
 		505AB2DE17C901CD001B919B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2DD17C901CD001B919B /* Default.png */; };
 		505AB2E017C901CD001B919B /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2DF17C901CD001B919B /* Default@2x.png */; };
 		505AB2E217C901CD001B919B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2E117C901CD001B919B /* Default-568h@2x.png */; };
-		505AB2E517C901CD001B919B /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2E317C901CD001B919B /* MainStoryboard.storyboard */; };
 		505AB2E817C901CD001B919B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 505AB2E717C901CD001B919B /* ViewController.m */; };
 		505AB2F017C901CD001B919B /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2EF17C901CD001B919B /* SenTestingKit.framework */; };
 		505AB2F117C901CD001B919B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CB17C901CD001B919B /* UIKit.framework */; };
 		505AB2F217C901CD001B919B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 505AB2CD17C901CD001B919B /* Foundation.framework */; };
 		505AB2FA17C901CE001B919B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 505AB2F817C901CE001B919B /* InfoPlist.strings */; };
 		505AB2FD17C901CE001B919B /* ______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 505AB2FC17C901CE001B919B /* ______Tests.m */; };
+		505C591518057331000DD084 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 505C591418057331000DD084 /* SettingViewController.m */; };
+		507FFE12193B10F500CEADCD /* su551-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 507FFE11193B10F500CEADCD /* su551-2.mp3 */; };
+		507FFE14193B14CF00CEADCD /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 507FFE13193B14CF00CEADCD /* AVFoundation.framework */; };
+		50A97274183399150018A202 /* 目覚まし時計.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 50A97273183399150018A202 /* 目覚まし時計.jpg */; };
+		50A97276183399230018A202 /* 目覚まし時計.gif in Resources */ = {isa = PBXBuildFile; fileRef = 50A97275183399230018A202 /* 目覚まし時計.gif */; };
+		50D5AECA184F3CB2000F4AF0 /* バカバカ.png in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AEC9184F3CB2000F4AF0 /* バカバカ.png */; };
+		50D5AECC184F4193000F4AF0 /* 馬鹿アホ.png in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AECB184F4193000F4AF0 /* 馬鹿アホ.png */; };
+		50D5AECE184F4AAA000F4AF0 /* バカバカアホアホアホ.png in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AECD184F4AAA000F4AF0 /* バカバカアホアホアホ.png */; };
+		50D5AED018587A08000F4AF0 /* sinntyann.png in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AECF18587A08000F4AF0 /* sinntyann.png */; };
+		50D5AED218587ED3000F4AF0 /* かか.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AED118587ED3000F4AF0 /* かか.jpg */; };
+		50D5AED6185881AB000F4AF0 /* おおおおおおおおおお.png in Resources */ = {isa = PBXBuildFile; fileRef = 50D5AED5185881AB000F4AF0 /* おおおおおおおおおお.png */; };
+		50DBCBA41869267A001429C9 /* seikaiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50DBCBA31869267A001429C9 /* seikaiViewController.m */; };
+		50E54E2E187C8EBF00CEED82 /* んんんn.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E54E2D187C8EBF00CEED82 /* んんんn.png */; };
+		50EDE72418460B9D0046CE3F /* あら.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EDE72318460B9D0046CE3F /* あら.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +56,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5006E3AA1866C6350062FF62 /* keisanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = keisanViewController.h; sourceTree = "<group>"; };
+		5006E3AB1866C6350062FF62 /* keisanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = keisanViewController.m; sourceTree = "<group>"; };
+		503344A018A24B0F00300A4C /* おおおおおおおおおお */ = {isa = PBXFileReference; lastKnownFileType = file; path = "おおおおおおおおおお"; sourceTree = "<group>"; };
+		503A45AC18C72A05002D8189 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		5047D9DF1833927900FE21C7 /* アラーム.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アラーム.png"; sourceTree = "<group>"; };
+		504B1949186C72CA0053C047 /* UUUUUUU.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UUUUUUU.png; sourceTree = "<group>"; };
+		504B194B186C758D0053C047 /* ￥￥￥￥￥.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "￥￥￥￥￥.png"; sourceTree = "<group>"; };
+		5053E1CB193AC97D00F0EE4A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5053E1CC193AC97D00F0EE4A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5053E1D2193ACC8600F0EE4A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		505AB2C817C901CD001B919B /* 計算アラーム.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "計算アラーム.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		505AB2CB17C901CD001B919B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		505AB2CD17C901CD001B919B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -49,7 +79,6 @@
 		505AB2DD17C901CD001B919B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		505AB2DF17C901CD001B919B /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		505AB2E117C901CD001B919B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		505AB2E417C901CD001B919B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		505AB2E617C901CD001B919B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		505AB2E717C901CD001B919B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		505AB2EE17C901CD001B919B /* 計算アラームTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "計算アラームTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -58,6 +87,22 @@
 		505AB2F917C901CE001B919B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		505AB2FB17C901CE001B919B /* ______Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "______Tests.h"; sourceTree = "<group>"; };
 		505AB2FC17C901CE001B919B /* ______Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "______Tests.m"; sourceTree = "<group>"; };
+		505C591318057331000DD084 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		505C591418057331000DD084 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
+		507FFE11193B10F500CEADCD /* su551-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "su551-2.mp3"; sourceTree = "<group>"; };
+		507FFE13193B14CF00CEADCD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		50A97273183399150018A202 /* 目覚まし時計.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "目覚まし時計.jpg"; sourceTree = "<group>"; };
+		50A97275183399230018A202 /* 目覚まし時計.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "目覚まし時計.gif"; sourceTree = "<group>"; };
+		50D5AEC9184F3CB2000F4AF0 /* バカバカ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "バカバカ.png"; sourceTree = "<group>"; };
+		50D5AECB184F4193000F4AF0 /* 馬鹿アホ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "馬鹿アホ.png"; sourceTree = "<group>"; };
+		50D5AECD184F4AAA000F4AF0 /* バカバカアホアホアホ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "バカバカアホアホアホ.png"; sourceTree = "<group>"; };
+		50D5AECF18587A08000F4AF0 /* sinntyann.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sinntyann.png; sourceTree = "<group>"; };
+		50D5AED118587ED3000F4AF0 /* かか.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "かか.jpg"; sourceTree = "<group>"; };
+		50D5AED5185881AB000F4AF0 /* おおおおおおおおおお.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "おおおおおおおおおお.png"; sourceTree = "<group>"; };
+		50DBCBA21869267A001429C9 /* seikaiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = seikaiViewController.h; sourceTree = "<group>"; };
+		50DBCBA31869267A001429C9 /* seikaiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = seikaiViewController.m; sourceTree = "<group>"; };
+		50E54E2D187C8EBF00CEED82 /* んんんn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "んんんn.png"; sourceTree = "<group>"; };
+		50EDE72318460B9D0046CE3F /* あら.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "あら.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +110,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				507FFE14193B14CF00CEADCD /* AVFoundation.framework in Frameworks */,
+				503A45AE18C72CAE002D8189 /* AudioToolbox.framework in Frameworks */,
 				505AB2CC17C901CD001B919B /* UIKit.framework in Frameworks */,
 				505AB2CE17C901CD001B919B /* Foundation.framework in Frameworks */,
 				505AB2D017C901CD001B919B /* CoreGraphics.framework in Frameworks */,
@@ -87,8 +134,9 @@
 		505AB2BF17C901CD001B919B = {
 			isa = PBXGroup;
 			children = (
+				507FFE11193B10F500CEADCD /* su551-2.mp3 */,
+				5053E1D1193ACC7B00F0EE4A /* MainStoryboard.storyboard */,
 				505AB2D117C901CD001B919B /* 計算アラーム */,
-				505AB2F517C901CE001B919B /* 計算アラームTests */,
 				505AB2CA17C901CD001B919B /* Frameworks */,
 				505AB2C917C901CD001B919B /* Products */,
 			);
@@ -106,6 +154,8 @@
 		505AB2CA17C901CD001B919B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				507FFE13193B14CF00CEADCD /* AVFoundation.framework */,
+				503A45AC18C72A05002D8189 /* AudioToolbox.framework */,
 				505AB2CB17C901CD001B919B /* UIKit.framework */,
 				505AB2CD17C901CD001B919B /* Foundation.framework */,
 				505AB2CF17C901CD001B919B /* CoreGraphics.framework */,
@@ -119,9 +169,9 @@
 			children = (
 				505AB2DA17C901CD001B919B /* AppDelegate.h */,
 				505AB2DB17C901CD001B919B /* AppDelegate.m */,
-				505AB2E317C901CD001B919B /* MainStoryboard.storyboard */,
-				505AB2E617C901CD001B919B /* ViewController.h */,
-				505AB2E717C901CD001B919B /* ViewController.m */,
+				50DBCB9F1869260C001429C9 /* スタート画面 */,
+				50DBCBA018692626001429C9 /* 設定画面 */,
+				50DBCBA11869263B001429C9 /* 計算画面 */,
 				505AB2D217C901CD001B919B /* Supporting Files */,
 			);
 			path = "計算アラーム";
@@ -130,6 +180,21 @@
 		505AB2D217C901CD001B919B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				503344A018A24B0F00300A4C /* おおおおおおおおおお */,
+				50E54E2D187C8EBF00CEED82 /* んんんn.png */,
+				50EDE72318460B9D0046CE3F /* あら.png */,
+				504B194B186C758D0053C047 /* ￥￥￥￥￥.png */,
+				504B1949186C72CA0053C047 /* UUUUUUU.png */,
+				50D5AED5185881AB000F4AF0 /* おおおおおおおおおお.png */,
+				50D5AED118587ED3000F4AF0 /* かか.jpg */,
+				50D5AECF18587A08000F4AF0 /* sinntyann.png */,
+				50D5AECD184F4AAA000F4AF0 /* バカバカアホアホアホ.png */,
+				50D5AECB184F4193000F4AF0 /* 馬鹿アホ.png */,
+				50D5AEC9184F3CB2000F4AF0 /* バカバカ.png */,
+				50A97275183399230018A202 /* 目覚まし時計.gif */,
+				505AB2F517C901CE001B919B /* 計算アラームTests */,
+				50A97273183399150018A202 /* 目覚まし時計.jpg */,
+				5047D9DF1833927900FE21C7 /* アラーム.png */,
 				505AB2D317C901CD001B919B /* 計算アラーム-Info.plist */,
 				505AB2D417C901CD001B919B /* InfoPlist.strings */,
 				505AB2D717C901CD001B919B /* main.m */,
@@ -146,10 +211,11 @@
 			children = (
 				505AB2FB17C901CE001B919B /* ______Tests.h */,
 				505AB2FC17C901CE001B919B /* ______Tests.m */,
+				50DBCBA518692680001429C9 /* 正解画面 */,
 				505AB2F617C901CE001B919B /* Supporting Files */,
 			);
 			path = "計算アラームTests";
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		505AB2F617C901CE001B919B /* Supporting Files */ = {
 			isa = PBXGroup;
@@ -158,6 +224,43 @@
 				505AB2F817C901CE001B919B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		50DBCB9F1869260C001429C9 /* スタート画面 */ = {
+			isa = PBXGroup;
+			children = (
+				505AB2E617C901CD001B919B /* ViewController.h */,
+				505AB2E717C901CD001B919B /* ViewController.m */,
+			);
+			name = "スタート画面";
+			sourceTree = "<group>";
+		};
+		50DBCBA018692626001429C9 /* 設定画面 */ = {
+			isa = PBXGroup;
+			children = (
+				505C591318057331000DD084 /* SettingViewController.h */,
+				505C591418057331000DD084 /* SettingViewController.m */,
+			);
+			name = "設定画面";
+			sourceTree = "<group>";
+		};
+		50DBCBA11869263B001429C9 /* 計算画面 */ = {
+			isa = PBXGroup;
+			children = (
+				5006E3AA1866C6350062FF62 /* keisanViewController.h */,
+				5006E3AB1866C6350062FF62 /* keisanViewController.m */,
+			);
+			name = "計算画面";
+			sourceTree = "<group>";
+		};
+		50DBCBA518692680001429C9 /* 正解画面 */ = {
+			isa = PBXGroup;
+			children = (
+				50DBCBA21869267A001429C9 /* seikaiViewController.h */,
+				50DBCBA31869267A001429C9 /* seikaiViewController.m */,
+			);
+			name = "正解画面";
+			path = "../計算アラーム";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,8 +308,14 @@
 		505AB2C017C901CD001B919B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastTestingUpgradeCheck = 0510;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = com.litech;
+				TargetAttributes = {
+					505AB2C717C901CD001B919B = {
+						DevelopmentTeam = MCS9TW45T5;
+					};
+				};
 			};
 			buildConfigurationList = 505AB2C317C901CD001B919B /* Build configuration list for PBXProject "計算アラーム" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -214,6 +323,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				ja,
 			);
 			mainGroup = 505AB2BF17C901CD001B919B;
 			productRefGroup = 505AB2C917C901CD001B919B /* Products */;
@@ -231,11 +341,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50A97274183399150018A202 /* 目覚まし時計.jpg in Resources */,
+				50A97276183399230018A202 /* 目覚まし時計.gif in Resources */,
+				50D5AECA184F3CB2000F4AF0 /* バカバカ.png in Resources */,
+				5053E1CF193ACC7B00F0EE4A /* MainStoryboard.storyboard in Resources */,
+				504B194C186C758D0053C047 /* ￥￥￥￥￥.png in Resources */,
+				507FFE12193B10F500CEADCD /* su551-2.mp3 in Resources */,
 				505AB2D617C901CD001B919B /* InfoPlist.strings in Resources */,
+				50D5AED018587A08000F4AF0 /* sinntyann.png in Resources */,
+				50EDE72418460B9D0046CE3F /* あら.png in Resources */,
+				50D5AECE184F4AAA000F4AF0 /* バカバカアホアホアホ.png in Resources */,
 				505AB2DE17C901CD001B919B /* Default.png in Resources */,
+				5047D9E01833927900FE21C7 /* アラーム.png in Resources */,
+				50E54E2E187C8EBF00CEED82 /* んんんn.png in Resources */,
+				50D5AECC184F4193000F4AF0 /* 馬鹿アホ.png in Resources */,
+				503344A118A24B0F00300A4C /* おおおおおおおおおお in Resources */,
+				50D5AED218587ED3000F4AF0 /* かか.jpg in Resources */,
+				504B194A186C72CA0053C047 /* UUUUUUU.png in Resources */,
 				505AB2E017C901CD001B919B /* Default@2x.png in Resources */,
 				505AB2E217C901CD001B919B /* Default-568h@2x.png in Resources */,
-				505AB2E517C901CD001B919B /* MainStoryboard.storyboard in Resources */,
+				50D5AED6185881AB000F4AF0 /* おおおおおおおおおお.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +395,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5006E3AC1866C6350062FF62 /* keisanViewController.m in Sources */,
 				505AB2D817C901CD001B919B /* main.m in Sources */,
 				505AB2DC17C901CD001B919B /* AppDelegate.m in Sources */,
 				505AB2E817C901CD001B919B /* ViewController.m in Sources */,
+				50DBCBA41869267A001429C9 /* seikaiViewController.m in Sources */,
+				505C591518057331000DD084 /* SettingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,26 +423,28 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		5053E1D1193ACC7B00F0EE4A /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5053E1D2193ACC8600F0EE4A /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
 		505AB2D417C901CD001B919B /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				505AB2D517C901CD001B919B /* en */,
+				5053E1CC193AC97D00F0EE4A /* ja */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		505AB2E317C901CD001B919B /* MainStoryboard.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				505AB2E417C901CD001B919B /* en */,
-			);
-			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
 		};
 		505AB2F817C901CE001B919B /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				505AB2F917C901CE001B919B /* en */,
+				5053E1CB193AC97D00F0EE4A /* ja */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -347,7 +477,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -371,7 +501,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -381,10 +511,15 @@
 		505AB30117C901CE001B919B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "計算アラーム/計算アラーム-Prefix.pch";
 				INFOPLIST_FILE = "計算アラーム/計算アラーム-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,10 +527,15 @@
 		505AB30217C901CE001B919B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "計算アラーム/計算アラーム-Prefix.pch";
 				INFOPLIST_FILE = "計算アラーム/計算アラーム-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -453,6 +593,7 @@
 				505AB30217C901CE001B919B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		505AB30317C901CE001B919B /* Build configuration list for PBXNativeTarget "計算アラームTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +602,7 @@
 				505AB30517C901CE001B919B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5006E3AC1866C6350062FF62 /* keisanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5006E3AB1866C6350062FF62 /* keisanViewController.m */; };
+		5007AED5195FB13F000B50F3 /* Storyboard2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5007AED4195FB13F000B50F3 /* Storyboard2.storyboard */; };
 		503344A118A24B0F00300A4C /* おおおおおおおおおお in Resources */ = {isa = PBXBuildFile; fileRef = 503344A018A24B0F00300A4C /* おおおおおおおおおお */; };
 		503A45AE18C72CAE002D8189 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 503A45AC18C72A05002D8189 /* AudioToolbox.framework */; };
 		5047D9E01833927900FE21C7 /* アラーム.png in Resources */ = {isa = PBXBuildFile; fileRef = 5047D9DF1833927900FE21C7 /* アラーム.png */; };
@@ -66,6 +67,7 @@
 /* Begin PBXFileReference section */
 		5006E3AA1866C6350062FF62 /* keisanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = keisanViewController.h; sourceTree = "<group>"; };
 		5006E3AB1866C6350062FF62 /* keisanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = keisanViewController.m; sourceTree = "<group>"; };
+		5007AED4195FB13F000B50F3 /* Storyboard2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard2.storyboard; sourceTree = "<group>"; };
 		503344A018A24B0F00300A4C /* おおおおおおおおおお */ = {isa = PBXFileReference; lastKnownFileType = file; path = "おおおおおおおおおお"; sourceTree = "<group>"; };
 		503A45AC18C72A05002D8189 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		5047D9DF1833927900FE21C7 /* アラーム.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アラーム.png"; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 				506C48D0194D7F8800389641 /* iTunesArtwork@2x.png */,
 				507FFE11193B10F500CEADCD /* su551-2.mp3 */,
 				5053E1D1193ACC7B00F0EE4A /* MainStoryboard.storyboard */,
+				5007AED4195FB13F000B50F3 /* Storyboard2.storyboard */,
 				505AB2D117C901CD001B919B /* 計算アラーム */,
 				505AB2CA17C901CD001B919B /* Frameworks */,
 				505AB2C917C901CD001B919B /* Products */,
@@ -392,6 +395,7 @@
 				505AB2E217C901CD001B919B /* Default-568h@2x.png in Resources */,
 				506C48D6194D7F8800389641 /* iTunesArtwork@2x.png in Resources */,
 				506C48D5194D7F8800389641 /* iTunesArtwork.png in Resources */,
+				5007AED5195FB13F000B50F3 /* Storyboard2.storyboard in Resources */,
 				50D5AED6185881AB000F4AF0 /* おおおおおおおおおお.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -98,7 +98,7 @@
     NSLog(@"リセット！！");
     
 }
-
+//aaaaaaaaaaaa
 
 
 - (void)viewDidLoad

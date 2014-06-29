@@ -96,6 +96,7 @@
     [myTimer invalidate];//タイマーを止める
     myLabel.text = @"";//時間の表示をリセット
     NSLog(@"リセット！！");
+    
 }
 
 
@@ -103,7 +104,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-
     
 }
 
